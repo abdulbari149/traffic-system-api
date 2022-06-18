@@ -1,0 +1,6 @@
+exports.VoilationRoutes = require("./VoilationRoutes")
+exports.AuthRoutes = require("./AuthRoutes")
+exports.ChallanRoutes = require("./ChallanRoutes")
+exports.WardenRoutes = require("./WardenRoutes")
+exports.CitizenRoutes = require("./CitizenRoutes")
+exports.ImageRoutes = require("./ImageRoutes")
